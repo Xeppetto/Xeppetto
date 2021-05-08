@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp;
 
 
-<img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat-square&logo=Microsoft Office&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/MicrosoftOffice-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/></a>&nbsp;
 
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp;
