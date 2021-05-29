@@ -1,9 +1,6 @@
-## Chat from Xeppetto
-안녕하세요. 👋 Hi, There
+## Badge 붙이기 작업 중
 
 Personal Blog - https://xeppetto.github.io/
-
-
 
 ## My Skill Set <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp; 
