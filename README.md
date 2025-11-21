@@ -1,6 +1,7 @@
 ## Xeppetto - 천년나무
 
-1. https://xeppetto.github.io/ 
+1. https://xelion.pe.kr
+2. https://xeppetto.github.io/ 
 3. https://softwaretestingreference.tistory.com/pages/필진-소개-천년나무
 
 
